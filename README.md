@@ -17,7 +17,6 @@ Understand what makes a password strong and test its strength using free online 
 
 ## 🛠️ Tools Used
 - 🔗 [PasswordMeter](https://www.passwordmeter.com)
-- 🔗 [Security.org Password Checker](https://www.security.org/how-secure-is-my-password/)
 
 ---
 
